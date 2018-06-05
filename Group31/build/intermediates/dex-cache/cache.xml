@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/99e49e84bf22403d388fd0886e60f55f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1031cfb995bffbedb6a75a12f5a6ab0b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/774fcc655ab83c3ca1b31a06e5cfd57e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6974b41b48425209fc33a51e1db2997a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/84bd426ce84cf81eb395c8d3936c647c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/dab03b4795dbda6049dff3210497e34c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db1e2dee44d7b8bb829c8613e88e9e87/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/d5edb237303cdaae822126f6627352de/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d4b0d4647ea12da084b8acc275073107/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/libs/GraphView.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f05e91ef178332097bd8126ca6dc12b1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aravind/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e5c347881c2d60f21c525cda74488e9f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/aravind/Documents/ComputerEngineering/Spring&apos;18/MobileComputing/Android/Group31/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+
+</items>
